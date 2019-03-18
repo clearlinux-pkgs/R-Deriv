@@ -4,7 +4,7 @@
 #
 Name     : R-Deriv
 Version  : 3.8.5
-Release  : 5
+Release  : 6
 URL      : https://cran.r-project.org/src/contrib/Deriv_3.8.5.tar.gz
 Source0  : https://cran.r-project.org/src/contrib/Deriv_3.8.5.tar.gz
 Summary  : Symbolic Differentiation
