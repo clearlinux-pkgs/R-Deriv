@@ -1,5 +1,5 @@
 PKG_NAME := R-Deriv
-URL = https://cran.r-project.org/src/contrib/Deriv_4.0.tar.gz
+URL = https://cran.r-project.org/src/contrib/Deriv_4.0.1.tar.gz
 ARCHIVES = 
 
 include ../common/Makefile.common
