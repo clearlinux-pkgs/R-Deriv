@@ -1,3 +1,6 @@
 # This file contains recursive sources that require this package
+R-doBy
+R-interp
 R-mirt
 R-neuralnet
+R-ordinalCont
